@@ -4,11 +4,11 @@
   "version": "${version}",
 
   "name": "multiverse_oven",
-  "icon": "assets/kiln/textures/block/kiln_on.png",
-  "description": "Companion to smoker and blast furnace for smelting stones, sands, bricks, and more. Request from BluKat.",
+  "icon": "assets/oven/textures/block/oven_on.png",
+  "description": "Adds a oven to be used in muliverse's survival module.",
   "license": "MIT",
   "contact": {
-    "sources": "https://github.com/Boundarybreaker/Kiln"
+    "sources": "https://github.com/Nathan22211/multiverse_oven"
   },
   "environment": "*",
   "entrypoints": {
