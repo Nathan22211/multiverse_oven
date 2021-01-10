@@ -13,10 +13,10 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "mod.multiverse.multiverse_oven.Kiln"
+      "multiverse.multiverse_oven.Kiln"
     ],
     "client": [
-      "mod.multiverse.multiverse_oven.client.KilnClient"
+      "multiverse.multiverse_oven.client.KilnClient"
     ]
   },
   "accessWidener": "kiln.accesswidener",
